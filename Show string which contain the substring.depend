@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564600309 source:c:\badhon\show string which contain the substring\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
